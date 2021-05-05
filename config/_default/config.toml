@@ -1,0 +1,33 @@
+## --- ALL PARAMETERS NEEDED FOR THE PORTFOLIO ---
+[params]
+title = "Goutham Krishna K V"
+author = "Goutham Krishna K V"
+profilePicture = "images/PROFILE.jpg"
+
+## -- ALL SOCIAL MEDIA HANDLES --
+# - Twitter
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/gautham9991"
+# - LinkedIn
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/gauthamkrishna9991/"
+# - Telegram
+[[params.socialIcons]]
+icon = "fab fa-telegram"
+title = "Telegram"
+url = "https://t.me/gauthamkrishna9991"
+
+# - GitHub
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://www.github.com/gauthamkrishna9991"
+# - GitLab
+[[params.socialIcons]]
+icon = "fab fa-gitlab"
+title = "GitLab"
+url = "https://gitlab.com/gauthamkrishna9991"

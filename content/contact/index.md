@@ -1,7 +1,7 @@
 ---
 title: "Contact Me"
 date: 2021-05-05T13:31:02+05:30
-draft: true
+draft: false
 ---
 
 

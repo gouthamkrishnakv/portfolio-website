@@ -1,0 +1,19 @@
+## --- ALL NAVIGATION ITEMS ---
+
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[main]]
+name = "Posts"
+identifier = "post"
+weight = 200
+url = "/posts"
+
+[[main]]
+name = "Contact Me"
+identifier = "contact_me"
+weight = 300
+url = "/contact"
