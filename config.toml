@@ -1,3 +1,5 @@
+# We'll modify it when we push the repository to the
+# website we want to switch to.
 baseURL = "http://example.org/"
 languageCode = "en-us"
 name = "Portfolio"
