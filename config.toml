@@ -2,30 +2,9 @@
 # website we want to switch to.
 baseURL = "http://example.org/"
 languageCode = "en-us"
-name = "Portfolio"
+name = "gouthamkrishnakv"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
-
-## --- ALL NAVIGATION ITEMS ---
-[menu]
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  identifier = "post"
-  weight = 200
-  url = "/posts/"
-
-  [[menu.main]]
-  name = "Contact Me"
-  identifier = "contact_me"
-  weight = 300
-  url = "/contact/"
-
-
+contentDir = "content"

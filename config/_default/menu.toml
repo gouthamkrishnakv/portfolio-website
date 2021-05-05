@@ -10,10 +10,10 @@ url = "/"
 name = "Posts"
 identifier = "post"
 weight = 200
-url = "/posts"
+url = "/post/"
 
 [[main]]
 name = "Contact Me"
-identifier = "contact_me"
+identifier = "contact"
 weight = 300
-url = "/contact"
+url = "/contact/"

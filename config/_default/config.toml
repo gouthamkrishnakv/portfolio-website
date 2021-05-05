@@ -1,8 +1,19 @@
+# We'll modify it when we push the repository to the
+# website we want to switch to.
+baseURL = "http://example.org/"
+languageCode = "en-us"
+name = "gouthamkrishnakv"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+contentDir = "content"
 ## --- ALL PARAMETERS NEEDED FOR THE PORTFOLIO ---
 [params]
 title = "Goutham Krishna K V"
 author = "Goutham Krishna K V"
 profilePicture = "images/PROFILE.jpg"
+mainSections = ["home","post", "contact"]
 
 ## -- ALL SOCIAL MEDIA HANDLES --
 # - Twitter
