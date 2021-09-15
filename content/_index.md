@@ -7,8 +7,8 @@ date: 2021-05-05T12:58:04+05:30
 
 I'm **Goutham Krishna K V**.
 
-I'm predominantly using Rust/Rocket to build RESTful backend servers which are
-fast and correct (which back-end services definitely need to be).
+I'm some guy who just loves to code, and read fiction, and love to also play
+video-games. I presently build Rust/Rocket Back-end RESTful Servers.
 
 I also love and use **`C/C++`** (Along with **`Make`**, **`CMake`** and
 **`Meson`**), **`Java`** (w/ **`Gradle`** / **`Maven`**), **`Javascript`** /
